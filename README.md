@@ -94,14 +94,24 @@ Researching deep learning approaches for recognizing emotions when facial featur
 
 ## 🌐 Connect With Me
 
+## 🤝 Connect With Me
+
 <p align="center">
-<a href="https://www.linkedin.com/in/anousha-gul-b2781633a/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://www.kaggle.com/anoushagul"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" width="48"/></a>
-<a href="https://www.facebook.com/profile.php?id=61568986962702"><img src="https://skillicons.dev/icons?i=facebook" /></a>
+  <a href="https://www.linkedin.com/in/anousha-gul-b2781633a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://www.kaggle.com/anoushagul">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+
+  <a href="https://www.facebook.com/profile.php?id=61568986962702">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
-<strong>Data Science Student • AI Enthusiast • Future Researcher</strong>
+💡 Open to collaboration in Data Science, Machine Learning, Power BI, and Research Projects
 </p>
 
 ⭐ *"Transforming data into insights and ideas into impactful solutions."*
