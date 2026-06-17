@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=200&section=header&text=Anousha%20Gul&fontSize=50&fontColor=fff"/>
 
-![snake gif](https://github.com/anoushagul4-web/anoushagul4-web/blob/output/github-contribution-grid-snake.svg)
-
 <h1 align="center">Hi 👋, I'm Anousha Gul</h1>
 <h3 align="center">Data Science Student | Aspiring AI Researcher | Data Analyst</h3>
 
@@ -19,7 +17,7 @@
 - 🔬 Interested in Computer Vision and Deep Learning Research
 - 📚 Currently learning Advanced Data Structures, Operating Systems, and Machine Learning
 - 🌱 Building projects using Python, SQL, Power BI, and Data Science tools
-- 🎯 Goal: Become an AI Researcher & Data Scientist
+- 🎯 Goal: Become an AI Researcher & Data Scientist, handling big data
 
 ---
 
@@ -110,8 +108,4 @@ Researching deep learning approaches for recognizing emotions when facial featur
 
 ⭐ *"Transforming data into insights and ideas into impactful solutions."*
 
-<h1 align="center">Hi 👋, I'm Anousha Gul</h1>
 
-<p align="center">
-🎓 Data Science Student | 📊 Data Analyst | 🤖 AI Enthusiast
-</p>
