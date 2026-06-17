@@ -1,41 +1,117 @@
-# Hi there, I'm Anousha Gul 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=200&section=header&text=Anousha%20Gul&fontSize=50&fontColor=fff"/>
 
-🎓 Data Science Student
+![snake gif](https://github.com/anoushagul4-web/anoushagul4-web/blob/output/github-contribution-grid-snake.svg)
 
-📍 Pak-Austria Fachhochschule Institute
+<h1 align="center">Hi 👋, I'm Anousha Gul</h1>
+<h3 align="center">Data Science Student | Aspiring AI Researcher | Data Analyst</h3>
 
-💻 Skills:
-- Python
-- SQL
-- Power BI
-- Machine Learning
-- Data Analysis
-- HTML/CSS
-
-## Projects
-
-### 📊 Laptop Battery Health Analysis
-Analyzed battery performance using Python and visualization tools.
-
-### 🦟 Dengue Analysis in Pakistan
-Data-driven analysis of dengue cases across provinces.
-
-### 🌊 CFD Pipe Bend Analysis
-Dashboard-based fluid flow analysis using CFD data.
-
-## Connect With Me
-
-- LinkedIn: [Your LinkedIn URL]
-- GitHub: https://github.com/anoushagul4-web
-  ### Tech Stack
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,mysql,html,css,git,github,vscode,powerbi" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anoushagul4-web&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anoushagul4-web&show_icons=true)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anoushagul4-web&layout=compact)
+## 🎓 About Me
 
-![GitHub Streak](https://streak-stats.demolab.com?user=anoushagul4-web)
+- 🎓 4th Semester Data Science Student
+- 🏫 Pak-Austria Fachhochschule Institute
+- 📊 Passionate about Data Analytics, AI, Machine Learning & Visualization
+- 🔬 Interested in Computer Vision and Deep Learning Research
+- 📚 Currently learning Advanced Data Structures, Operating Systems, and Machine Learning
+- 🌱 Building projects using Python, SQL, Power BI, and Data Science tools
+- 🎯 Goal: Become an AI Researcher & Data Scientist
 
+---
+
+## 🚀 Featured Projects
+
+### 💻 Laptop Battery Health Analysis
+Analyzed battery performance using Python, Pandas, and data visualization techniques.
+
+### 🦟 Dengue Analysis in Pakistan
+Explored dengue trends across provinces and districts using data analytics and visualization.
+
+### 🌊 CFD Pipe Bend Analysis
+Developed a dashboard-based analysis of fluid flow behavior in a 90° pipe bend using CFD simulation data.
+
+### ✋ AI-Powered Gesture Control Suite
+Built a computer vision application that enables touchless control using hand gestures.
+
+### 🌐 CoAP-Based Sensor Network Simulation
+Implemented and analyzed IoT communication using CoAP protocol in Contiki OS.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,html,css,javascript,git,github,vscode" />
+</p>
+
+### Data Science & Analytics
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Power BI
+- SQL
+- Machine Learning
+- Data Visualization
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=anoushagul4-web&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoushagul4-web&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=anoushagul4-web&theme=tokyonight" />
+</p>
+
+---
+
+## 📚 Current Research Interest
+
+### Emotion Recognition from Facial Expressions Under Occlusion
+
+Researching deep learning approaches for recognizing emotions when facial features are partially covered by masks, glasses, or other occlusions.
+
+---
+
+## 🏆 Achievements
+
+- 🎖️ IoT Laboratory Project Contributor
+- 🎖️ Summer Camp STEM Instructor
+- 🎖️ Data Analytics & Visualization Projects
+- 🎖️ AI and Computer Vision Development Projects
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
+
+---
+
+⭐ *"Transforming data into insights and ideas into impactful solutions."*
+
+<h1 align="center">Hi 👋, I'm Anousha Gul</h1>
+
+<p align="center">
+🎓 Data Science Student | 📊 Data Analyst | 🤖 AI Enthusiast
+</p>
