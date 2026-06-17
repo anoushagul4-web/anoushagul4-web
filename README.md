@@ -94,15 +94,15 @@ Researching deep learning approaches for recognizing emotions when facial featur
 
 ## 🌐 Connect With Me
 
-<p align="center">
-<a href="https://www.linkedin.com/in/anousha-gul-b2781633a/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://www.kaggle.com/anoushagul"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" width="48"/></a>
-<a href="https://www.facebook.com/profile.php?id=61568986962702"><img src="https://skillicons.dev/icons?i=facebook" /></a>
-</p>
+<div align="center">
 
-<p align="center">
-<strong>Data Science Student • AI Enthusiast • Future Researcher</strong>
-</p>
+### 💼 📊 📘
+
+[LinkedIn](https://www.linkedin.com/in/anousha-gul-b2781633a/) •
+[Kaggle](https://www.kaggle.com/anoushagul) •
+[Facebook](https://www.facebook.com/profile.php?id=61568986962702)
+
+</div>
 ⭐ *"Transforming data into insights and ideas into impactful solutions."*
 
 
