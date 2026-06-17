@@ -103,6 +103,27 @@ Researching deep learning approaches for recognizing emotions when facial featur
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/anousha-gul-b2781633a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.kaggle.com/anoushagul" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=61568986962702" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
 
 ---
 
