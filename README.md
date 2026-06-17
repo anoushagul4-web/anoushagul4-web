@@ -92,40 +92,17 @@ Researching deep learning approaches for recognizing emotions when facial featur
 
 ---
 
-## 🤝 Connect With Me
-
-<p align="left">
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-</p>
-## 🤝 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/anousha-gul-b2781633a/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://www.kaggle.com/anoushagul" target="_blank">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-</a>
-
-<a href="https://www.facebook.com/profile.php?id=61568986962702" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
+<a href="https://www.linkedin.com/in/anousha-gul-b2781633a/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.kaggle.com/anoushagul"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" width="48"/></a>
+<a href="https://www.facebook.com/profile.php?id=61568986962702"><img src="https://skillicons.dev/icons?i=facebook" /></a>
 </p>
 
----
+<p align="center">
+<strong>Data Science Student • AI Enthusiast • Future Researcher</strong>
+</p>
 
 ⭐ *"Transforming data into insights and ideas into impactful solutions."*
 
