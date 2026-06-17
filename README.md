@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there, I'm Anousha Gul 👋
 
-<!--
-**anoushagul4-web/anoushagul4-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science Student
 
-Here are some ideas to get you started:
+📍 Pak-Austria Fachhochschule Institute
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Skills:
+- Python
+- SQL
+- Power BI
+- Machine Learning
+- Data Analysis
+- HTML/CSS
+
+## Projects
+
+### 📊 Laptop Battery Health Analysis
+Analyzed battery performance using Python and visualization tools.
+
+### 🦟 Dengue Analysis in Pakistan
+Data-driven analysis of dengue cases across provinces.
+
+### 🌊 CFD Pipe Bend Analysis
+Dashboard-based fluid flow analysis using CFD data.
+
+## Connect With Me
+
+- LinkedIn: [Your LinkedIn URL]
+- GitHub: https://github.com/anoushagul4-web
+  ### Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,mysql,html,css,git,github,vscode,powerbi" />
+</p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anoushagul4-web&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anoushagul4-web&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=anoushagul4-web)
+
