@@ -1,108 +1,163 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=200&section=header&text=Anousha%20Gul&fontSize=50&fontColor=fff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=200&section=header&text=Anousha%20Gul&fontSize=50&fontColor=ffffff"/>
 
-<h1 align="center">Hi 👋, I'm Anousha Gul</h1>
-<h3 align="center">Data Science Student | Aspiring AI Researcher | Data Analyst</h3>
+<h1 align="center">Hi, I'm Anousha Gul</h1>
+
+<h3 align="center">
+Data Science Student | AI/ML & Big Data | Data Analytics
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anoushagul4-web&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=anoushagul4-web&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <b>Turning data into insights, models, and practical solutions.</b>
 </p>
 
 ---
 
-## 🎓 About Me
+## 👩‍💻 About Me
 
-- 🎓 4th Semester Data Science Student
-- 🏫 Pak-Austria Fachhochschule Institute
-- 📊 Passionate about Data Analytics, AI, Machine Learning & Visualization
-- 🔬 Interested in Computer Vision and Deep Learning Research
-- 📚 Currently learning Advanced Data Structures, Operating Systems, and Machine Learning
-- 🌱 Building projects using Python, SQL, Power BI, and Data Science tools
-- 🎯 Goal: Become an AI Researcher & Data Scientist, handling big data
+I am a Data Science student interested in building practical solutions at the intersection of **Data Analytics, Artificial Intelligence, Machine Learning, and Big Data**.
+
+- 🎓 Data Science Student at **Pak-Austria Fachhochschule Institute**
+- 📊 Interested in **Data Analytics, Machine Learning, AI, and Data Engineering**
+- 🔬 Exploring **Computer Vision and Deep Learning Research**
+- 🧠 Currently strengthening my knowledge of **Machine Learning, Data Structures, Operating Systems, and Big Data**
+- 💻 Building projects using **Python, SQL, Power BI, PyTorch, Apache Spark, Kafka, and related technologies**
+- 🚀 Interested in working with real-world datasets and developing data-driven applications
+- 🎯 Long-term goal: grow as an **AI Researcher and Data Scientist**
+
+---
+
+## 🧰 Technical Skills
+
+### Programming & Data
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,git,github,vscode" />
+</p>
+
+**Languages:**  
+Python • C++ • Java • SQL
+
+**Data Science & Analytics:**  
+Pandas • NumPy • Matplotlib • Power BI • Data Visualization • Exploratory Data Analysis
+
+**Machine Learning & AI:**  
+Machine Learning • PyTorch • Computer Vision • Deep Learning
+
+**Big Data & Data Engineering:**  
+Apache Spark • PySpark • Apache Kafka • Hadoop • HDFS • Apache Hive
+
+**Development & Tools:**  
+Git • GitHub • Linux • VS Code • Docker
 
 ---
 
 ## 🚀 Featured Projects
 
+### ⚡ Real-Time Fraud Detection System
+
+A real-time fraud detection system designed around a streaming data pipeline.
+
+**Technologies:** Apache Kafka • Apache Spark • Machine Learning • MongoDB • Python
+
+**Focus:**
+- Real-time event processing
+- Machine learning-based fraud detection
+- Streaming data pipelines
+- Real-time monitoring and visualization
+
+---
+
+### 🛰️ PASTIS-R-100 Semantic Segmentation
+
+A lightweight multi-temporal Sentinel-2 semantic segmentation project using the PASTIS-R-100 dataset.
+
+**Technologies:** Python • PyTorch • Deep Learning • Computer Vision
+
+**Focus:**
+- Semantic segmentation
+- Remote sensing imagery
+- Multi-temporal satellite data
+- Deep learning experimentation
+
+---
+
 ### 💻 Laptop Battery Health Analysis
-Analyzed battery performance using Python, Pandas, and data visualization techniques.
+
+A data-driven analysis of laptop battery health and performance.
+
+**Technologies:** Python • Pandas • Data Visualization
+
+**Focus:**
+- Data analysis
+- Battery performance trends
+- Visualization
+- Insight generation
+
+---
 
 ### 🦟 Dengue Analysis in Pakistan
-Explored dengue trends across provinces and districts using data analytics and visualization.
 
-### 🌊 CFD Pipe Bend Analysis
-Developed a dashboard-based analysis of fluid flow behavior in a 90° pipe bend using CFD simulation data.
+Exploration and visualization of dengue cases across provinces and districts in Pakistan.
+
+**Technologies:** Python • Data Analysis • Data Visualization
+
+**Focus:**
+- Exploratory data analysis
+- Geographic comparisons
+- Trend analysis
+- Data-driven insights
+
+---
 
 ### ✋ AI-Powered Gesture Control Suite
-Built a computer vision application that enables touchless control using hand gestures.
 
-### 🌐 CoAP-Based Sensor Network Simulation
-Implemented and analyzed IoT communication using CoAP protocol in Contiki OS.
+A computer vision application enabling touchless computer interaction using hand gestures.
 
----
+**Technologies:** Python • OpenCV • MediaPipe • Computer Vision
 
-## 🛠️ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,html,css,javascript,git,github,vscode" />
-</p>
-
-### Data Science & Analytics
-
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Power BI
-- SQL
-- Machine Learning
-- Data Visualization
+**Focus:**
+- Hand gesture recognition
+- Computer vision
+- Human-computer interaction
+- Real-time processing
 
 ---
 
-## 📈 GitHub Statistics
+### 🌐 Z & S Tax Consultants Website
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anoushagul4-web&show_icons=true&theme=tokyonight" />
-</p>
+A professional public website developed for a tax consultancy business.
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoushagul4-web&layout=compact&theme=tokyonight" />
-</p>
+**Technologies:** React • TypeScript • Vite
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=anoushagul4-web&theme=tokyonight" />
-</p>
+**Focus:**
+- Responsive web development
+- Modern UI/UX
+- Business website development
+- Frontend architecture
 
 ---
 
-## 📚 Current Research Interest
+## 📊 Data & Big Data Projects
 
-### Emotion Recognition from Facial Expressions Under Occlusion
+I am particularly interested in understanding how data moves from **collection → processing → analysis → visualization → decision-making**.
 
-Researching deep learning approaches for recognizing emotions when facial features are partially covered by masks, glasses, or other occlusions.
+### Current areas of exploration
 
----
-
-## 🏆 Achievements
-
-- 🎖️ IoT Laboratory Project Contributor
-- 🎖️ Summer Camp STEM Instructor
-- 🎖️ Data Analytics & Visualization Projects
-- 🎖️ AI and Computer Vision Development Projects
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-### 💼 📊 📘
-
-[LinkedIn](https://www.linkedin.com/in/anousha-gul-b2781633a/) •
-[Kaggle](https://www.kaggle.com/anoushagul) •
-[Facebook](https://www.facebook.com/profile.php?id=61568986962702)
-
-</div>
-⭐ *"Transforming data into insights and ideas into impactful solutions."*
-
-
+```text
+Data Collection
+      ↓
+Data Storage
+      ↓
+Data Processing
+      ↓
+Machine Learning
+      ↓
+Analytics
+      ↓
+Visualization
+      ↓
+Insights & Decisions
